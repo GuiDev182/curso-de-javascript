@@ -1,0 +1,1 @@
+var nome = prompt("Digite seu nome","Digite seu nome aqui"); /* ("caixa para digitar"," o que vai aparecer na caixa")*/
